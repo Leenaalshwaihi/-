@@ -28,9 +28,4 @@ However, these are the features that we are focused on:
 - Matplotlib and Seaborn for plotting.
 
 --------------------------------------------------------------------------------
-The Fourth project - T5 Data Science Bootcamp
 
-By:<br />
-Taghreed Albaiz<br />
-Wafa Albattah<br />
-Leena Alshwaihi<br />
